@@ -1,0 +1,21 @@
+/* Use One Dark Pro vscode theme */
+/* https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme */
+
+/* Use FiraCode */
+/* https://github.com/tonsky/FiraCode/wiki */
+
+/* Use Material Icon Theme */
+/* https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme */
+
+.mtk6, .mtk5, .mtk19 {
+  font-family: "Script12 BT";
+  font-size: 1rem;
+}
+
+.mtk4.mtki {
+  color: #f9ca24 !important;
+}
+
+.mtk6 {
+  color: #ff3d4e !important;
+}
